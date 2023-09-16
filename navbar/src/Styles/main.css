@@ -1,5 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;700&display=swap");
+/* ESTE ES EL CSS QUE PASÉ A STYLED COMPONENTS  */
 
+
+/* 
 * {
 	padding: 0;
 	margin: 0;
@@ -17,9 +19,9 @@ h3 img {
 	--mainColorLight: #5767aa;
 	--secondaryColor: #db2b39;
 	--textColor: #eee;
-}
+} */
 
-header {
+/* header {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -27,19 +29,19 @@ header {
 	padding: 0 2rem;
 	background-color: var(--mainColor);
 	color: var(--textColor);
-}
+} */
 
-nav a {
+/* nav a {
 	margin: 0 1rem;
 	color: var(--textColor);
 	text-decoration: none;
-}
+} LHV*/
 
-nav a:hover {
+/* nav a:hover {
 	color: var(--secondaryColor);
-}
+} */
 
-header .nav-btn {
+/* header .nav-btn {
 	padding: 5px;
 	cursor: pointer;
 	background: transparent;
@@ -49,15 +51,15 @@ header .nav-btn {
 	visibility: hidden;
 	opacity: 0;
 	font-size: 1.8rem;
-}
+} */
 
-header div,
+/* header div,
 nav {
 	display: flex;
 	align-items: center;
-}
+} */
 
-@media only screen and (max-width: 1024px) {
+/* @media only screen and (max-width: 1024px) {
 	header .nav-btn {
 		visibility: visible;
 		opacity: 1;
@@ -91,4 +93,4 @@ nav {
 	nav a {
 		font-size: 1.5rem;
 	}
-}
+} */
